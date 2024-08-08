@@ -1,3 +1,3 @@
 # The Wild Oasis
 
-Demo Project Learning some react tricks
+React and Supabase Project
